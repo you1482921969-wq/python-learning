@@ -1,2 +1,2 @@
-# python-leaning
+# python-learning
 My python leatning journey
